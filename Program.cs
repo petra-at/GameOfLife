@@ -1,4 +1,5 @@
 ﻿using System;
+
 using System.Threading;
 
 /*
@@ -307,3 +308,15 @@ namespace GOL
         }
     }
 }
+
+namespace GameOfLife
+{
+    class GameOfLife
+    { 
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+
